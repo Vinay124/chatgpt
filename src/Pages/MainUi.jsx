@@ -13,7 +13,7 @@ const MainUi = () => {
   }
 
   // Chat gpt Api key
-  const API_KEY = "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"
+  const API_KEY = "add your api key"
 
   // gpt code
 
